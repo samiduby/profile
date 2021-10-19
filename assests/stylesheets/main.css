@@ -1,0 +1,62 @@
+html {
+    height: 100%;
+  }
+  body {
+    height: 100%;
+  }
+ 
+  div {
+  height: 100%;
+  background: rgb(255,255,255);
+  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(113,105,113,1) 100%);
+  }
+  img{
+    height: 150px;
+    width: 150px;
+    border-style: solid;
+    border-radius: 50%;
+    margin: auto;
+    top: -430px;
+    position: relative;
+   
+  } 
+  .square {
+    height: 400px;
+    width: 400px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    margin: 200px auto;
+    background: white;
+  }
+  .title{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 30px;
+    padding: 100px 20px;
+    font-weight: bold;
+  }
+  .about {
+    color: gray;
+    margin: 20px 20px;
+    font-size: 20px;
+  }
+  .lorem {
+    font-weight: 100;
+    font-size: 15px;
+    color: black;
+  }
+  .link {
+    font-weight: normal;
+  }
+  .contact{
+    height: 20px;
+    width: 100px;
+    background: black;
+    margin: 20px auto;
+    border-radius: 7%;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    font-weight: normal;
+  }
